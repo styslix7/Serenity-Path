@@ -8,10 +8,6 @@
 
 A solo, heavily interactive visual novel game with a fantasy story. Will be made in Twine Sugarcube, using HTML, CSS and Javascript. Will offer 2-3 hours of gameplay depending on choices.
 
-# Description
-
-...
-
 # License
 
 This project is licensed under a proprietary license. All rights are reserved by the author, and no part of the work may be copied, modified, or distributed without prior written consent.
@@ -30,4 +26,4 @@ All of the version history is [here](https://github.com/styslix7/Serenity-Path/b
 # Installation
 
 ```bash
-git clone https://github.com/styslix7/Stellar-Deception
+git clone https://github.com/styslix7/Serenity-Path
